@@ -11,6 +11,7 @@
 * [Japanese](https://github.com/kiwanami/CSS-Guidelines/blob/master/README.ja.md)
 * [Spanish](https://github.com/Wakkos/CSS-Guidelines/blob/master/README.md)
 * [German](https://github.com/rnarian/CSS-Guidelines/blob/master/README.md)
+* [korean](https://github.com/dahyun-yoon/CSS-Guidelines.wiki.git)
 
 ---
 
